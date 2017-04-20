@@ -1,11 +1,8 @@
 {
     "name": "dvasilcenko/weather-bundle",
-    "description": "NFQ weather OOP project",
+    "description": "NFQ weather OOP project by Dmitrij Vasilcenko",
     "autoload": {
         "psr-4": { "Dvasilcenko\\Bundle\\WeatherBundle\\": "" }
     },
-    "version": "1.0.2",
-    "require": {
-        "dvasilcenko/weather-bundle": "1.0.2"
-    }
+    "version": "1.0.3"
 }
