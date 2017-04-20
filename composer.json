@@ -2,7 +2,10 @@
     "name": "dvasilcenko/weather-bundle",
     "description": "NFQ weather OOP project",
     "autoload": {
-        "psr-4": { "Nfq\\Bundle\\WeatherBundle\\": "" }
+        "psr-4": { "Dvasilcenko\\Bundle\\WeatherBundle\\": "" }
     },
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "require": {
+        "dvasilcenko/weather-bundle": "1.0.2"
+    }
 }
