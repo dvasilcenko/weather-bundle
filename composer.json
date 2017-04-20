@@ -1,0 +1,7 @@
+{
+    "name": "dvasilcenko/package-name",
+    "description": "NFQ weather OOP project",
+    "autoload": {
+        "psr-4": { "Nfq\\Bundle\\WeatherBundle\\": "" }
+    }
+}

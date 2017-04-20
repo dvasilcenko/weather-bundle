@@ -1,0 +1,13 @@
+services:
+  nfq_weather.provider.yahoo:
+    class: Nfq\Bundle\WeatherBundle\YahooWeatherProvider
+    arguments: ['']
+  nfq_weather.provider.owm:
+    class: Nfq\Bundle\WeatherBundle\OwmWeatherProvider
+    arguments: ['']
+  nfq_weather.provider.delegating:
+    class: Nfq\Bundle\WeatherBundle\DelegatingWeatherProvider
+    arguments: ['']
+  nfq_weather.provider.cached:
+    class: Nfq\Bundle\WeatherBundle\CachedWeatherProvider
+    arguments: ['', '', '']
