@@ -1,5 +1,5 @@
 <?php
-namespace Nfq\Bundle\WeatherBundle;
+namespace Dvasilcenko\Bundle\WeatherBundle;
 
 use Symfony\Component\Cache\Adapter\FilesystemAdapter;
 

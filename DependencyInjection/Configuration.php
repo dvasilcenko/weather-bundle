@@ -1,6 +1,6 @@
 <?php
 
-namespace Nfq\Bundle\WeatherBundle\DependencyInjection;
+namespace Dvasilcenko\Bundle\WeatherBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

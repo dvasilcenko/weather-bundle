@@ -1,6 +1,6 @@
 <?php
 
-namespace Nfq\Bundle\WeatherBundle;
+namespace Dvasilcenko\Bundle\WeatherBundle;
 
 class WeatherProviderException extends \Exception
 {
